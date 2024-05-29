@@ -1,0 +1,40 @@
+D:\Programación3\SegundoParcial\SistemaMtricula\Conexionconbasededatos\Conexionconbasededatos\bin\Debug\Conexionconbasededatos.exe.config
+D:\Programación3\SegundoParcial\SistemaMtricula\Conexionconbasededatos\Conexionconbasededatos\bin\Debug\Conexionconbasededatos.exe
+D:\Programación3\SegundoParcial\SistemaMtricula\Conexionconbasededatos\Conexionconbasededatos\bin\Debug\Conexionconbasededatos.pdb
+D:\Programación3\SegundoParcial\SistemaMtricula\Conexionconbasededatos\Conexionconbasededatos\bin\Debug\Conexionconbasededatos.xml
+D:\Programación3\SegundoParcial\SistemaMtricula\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.vbproj.AssemblyReference.cache
+D:\Programación3\SegundoParcial\SistemaMtricula\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.Form1.resources
+D:\Programación3\SegundoParcial\SistemaMtricula\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.Resources.resources
+D:\Programación3\SegundoParcial\SistemaMtricula\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.vbproj.GenerateResource.cache
+D:\Programación3\SegundoParcial\SistemaMtricula\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.vbproj.CoreCompileInputs.cache
+D:\Programación3\SegundoParcial\SistemaMtricula\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.exe
+D:\Programación3\SegundoParcial\SistemaMtricula\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.xml
+D:\Programación3\SegundoParcial\SistemaMtricula\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.pdb
+D:\Programación3\SegundoParcial\SistemaMtricula\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.frmBuscar.resources
+D:\Conexionconbasededatos\Conexionconbasededatos\bin\Debug\Conexionconbasededatos.exe.config
+D:\Conexionconbasededatos\Conexionconbasededatos\bin\Debug\Conexionconbasededatos.exe
+D:\Conexionconbasededatos\Conexionconbasededatos\bin\Debug\Conexionconbasededatos.pdb
+D:\Conexionconbasededatos\Conexionconbasededatos\bin\Debug\Conexionconbasededatos.xml
+D:\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.vbproj.AssemblyReference.cache
+D:\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.Form1.resources
+D:\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.frmBuscar.resources
+D:\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.Resources.resources
+D:\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.vbproj.GenerateResource.cache
+D:\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.vbproj.CoreCompileInputs.cache
+D:\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.exe
+D:\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.xml
+D:\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.pdb
+D:\Programación\II PARCIAL - I SEMESTRE\Conexionconbasededatos\Conexionconbasededatos\bin\Debug\Conexionconbasededatos.exe.config
+D:\Programación\II PARCIAL - I SEMESTRE\Conexionconbasededatos\Conexionconbasededatos\bin\Debug\Conexionconbasededatos.exe
+D:\Programación\II PARCIAL - I SEMESTRE\Conexionconbasededatos\Conexionconbasededatos\bin\Debug\Conexionconbasededatos.pdb
+D:\Programación\II PARCIAL - I SEMESTRE\Conexionconbasededatos\Conexionconbasededatos\bin\Debug\Conexionconbasededatos.xml
+D:\Programación\II PARCIAL - I SEMESTRE\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.vbproj.AssemblyReference.cache
+D:\Programación\II PARCIAL - I SEMESTRE\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.Form1.resources
+D:\Programación\II PARCIAL - I SEMESTRE\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.frmBuscar.resources
+D:\Programación\II PARCIAL - I SEMESTRE\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.frmGraficas.resources
+D:\Programación\II PARCIAL - I SEMESTRE\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.Resources.resources
+D:\Programación\II PARCIAL - I SEMESTRE\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.vbproj.GenerateResource.cache
+D:\Programación\II PARCIAL - I SEMESTRE\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.vbproj.CoreCompileInputs.cache
+D:\Programación\II PARCIAL - I SEMESTRE\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.exe
+D:\Programación\II PARCIAL - I SEMESTRE\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.xml
+D:\Programación\II PARCIAL - I SEMESTRE\Conexionconbasededatos\Conexionconbasededatos\obj\Debug\Conexionconbasededatos.pdb
